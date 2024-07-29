@@ -1,4 +1,4 @@
-# RFAassessment
+# RFAssesment
 The goal of this assesment is to create an application that accepts a CSV file from the user via the React front end and 
 visualzie the matching result. 
 
@@ -80,4 +80,3 @@ If I were to be making this tool for a production level deployment I would add t
 5. Add more error handling to display errors in a more elegant way.
 6. Implement pagination handled on the backend to improve performance as datasets scale.
 7. Adjust filtering to use options in the api call rather than filtering directly in the TS code.
-# RFAssesment
