@@ -22,7 +22,7 @@ function Header() {
             CSV Matching Tool Assesment
           </Typography>
           <Link
-            href="https://github.com/JosephVasc/RFAassessment"
+            href="https://github.com/JosephVasc/RFAssesment"
             target="_blank"
             rel="noopener"
             color="inherit"
