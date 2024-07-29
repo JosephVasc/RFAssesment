@@ -21,6 +21,7 @@ Which is generated from the backend that you can view at:
 * `openapi-generator generate -i http://localhost:8000/openapi.json -g typescript-axios -o ./src/api`
 
 # Quick demo: 
+I am adding a quick unlisted youtube video demo as I usually will add a screen recording for open UI MRs.
 - https://www.youtube.com/watch?v=isMmh9a1268
 
 # Backend startup (local):
