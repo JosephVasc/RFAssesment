@@ -20,6 +20,8 @@ Which is generated from the backend that you can view at:
 * `localhost:8000/docs`
 * `openapi-generator generate -i http://localhost:8000/openapi.json -g typescript-axios -o ./src/api`
 
+# Quick demo: 
+- https://www.youtube.com/watch?v=isMmh9a1268
 
 # Backend startup (local):
 in the projects main directory you can bring up the mongo db with:
