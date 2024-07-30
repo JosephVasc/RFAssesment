@@ -1,12 +1,12 @@
-# RFAssesment
-The goal of this assesment is to create an application that accepts a CSV file from the user via the React front end and 
+# Project
+The goal of this project is to create an application that accepts a CSV file from the user via the React front end and 
 visualzie the matching result. 
 
 Matching is handled in the backend via Python / FastAPI and stored in a mongo database.
 The UI is built on React TS using a model view composer design. 
 
 # System Design:
-![View of how user will interact with system](system_design.png "System Design")
+![alt text](system_design.png "System")
 
 # Model View Composer:
 You can use a multitude of design patterns but for the simplicity of this single page app I decided to use as MVComposer Design pattern due to the clear separation of business and view logic. 
